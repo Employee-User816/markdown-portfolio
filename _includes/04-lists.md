@@ -1,5 +1,5 @@
-eggs
-milk
-beef
-fries
-potatos
+- eggs
+- milk
+- beef
+- fries
+- potatos
